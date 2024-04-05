@@ -1,0 +1,16 @@
+.h1, .bold {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: green;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+.bold {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+}
